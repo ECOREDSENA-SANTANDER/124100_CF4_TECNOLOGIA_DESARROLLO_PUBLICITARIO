@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-botones
         .titulo-principal__numero
           span 1
-        h1 <i>Endomarketing</i>
+        h1 ¿Qué es una campaña publicitaria?
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
         .col-lg-8

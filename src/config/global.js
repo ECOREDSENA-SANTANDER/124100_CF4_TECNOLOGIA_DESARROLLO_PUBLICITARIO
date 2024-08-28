@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Plan de <i>Endomarketing</i>',
+    componenteFormativo: 'Estructura de la campaña publicitaria',
     descripcionCurso:
-      'El <i>marketing</i>, llevado al interior de la empresa, <i>marketing</i> de adentro hacia más adentro de la organización”, de esta forma se podría definir el <i>endomarketing</i>; sin embargo, en el presente componente, se ahondará desde el punto de vista de la comunicación interna, tratando de enfocarse en las relaciones que pueden existir entre los diferentes actores de una empresa.',
+      'El desarrollo de una campaña publicitaria abarca tres elementos clave: la investigación, el brief y la identidad corporativa. Estos componentes forman la base del proceso de comunicación y establecen la ruta para una conversación eficaz con el cliente. Es importante destacar que existen numerosos modelos de campañas publicitarias, con cada agencia de publicidad empleando su propio enfoque.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '<i>Endomarketing</i>',
+        titulo: '¿Qué es una campaña publicitaria?',
         desarrolloContenidos: true,
       },
       {
