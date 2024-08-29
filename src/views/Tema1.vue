@@ -295,12 +295,73 @@
             .col-lg-9
               h5.blancotexto En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
 
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+          .col-sm-12.col-lg-7
+            .d-flex.align-items-center.mt-4
+              img.w-card-icon(src="@/assets/curso/temas/tema1/ico14.svg")
+              h3.bg13.py-2.w-card-text #[b Modelo] SpringBoard
+      p Es un modelo eficaz desarrollado por la agencia Y&R en los años 90. La base principal es el uso de los insights de los consumidores (los momentos de uso e interacción con el producto):
+      
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-4
+          img(src="@/assets/curso/temas/tema1/img15.svg")
+        .col-lg-6
+          .bgimg2.p-4
+            SlyderA(tipo="b").p-3
+              .row.p-1
+                .col-lg-12
+                  h5.px-4 Origen:
+                  p.px-4 ¿De dónde viene?, ¿qué lo hace único en la historia?.
+  
+              .row.p-1
+                .col-lg-12
+                  h5.px-4 Campo de competencia:
+                  p.px-4 ¿Quién es?, ¿qué hace? (hoy y mañana), ¿qué es lo que mejor hace?, ¿cuál es el mercado?.
+              
+              .row.p-1
+                .col-lg-12
+                  h5.px-4 Punto de diferencia:
+                  p.px-4 ¿Cuáles son las ventajas competitivas claras?, ¿cuál es la única manera de hacer las cosas?.
 
+              .row.p-1
+                .col-lg-12
+                  h5.px-4 Cliente Imaginario:
+                  p.px-4 ¿A quién se dirige?, ¿cuáles son las preocupaciones y necesidades claves?, ¿qué significa para los demás ser el cliente? 
 
+              .row.p-1
+                .col-lg-12
+                  h5.px-4 Personalidad:
+                  p.px-4 ¿Qué tal es como persona?.
 
+              .row.p-1
+                .col-lg-12
+                  h5.px-4 Misión o lucha:
+                  p.px-4 ¿Por qué luchar?, ¿cuál es el compromiso hacia los consumidores, mercado o mundo?.
 
+              .row.p-1
+                .col-lg-12
+                  h5.px-4 Valores
+                  p.px-4 ¿Cuál es el valor clave que dirige la misión?.
 
-
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12
+          img(src="@/assets/curso/temas/tema1/img16.png")
+      
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+          .col-sm-12.col-lg-7
+            .d-flex.align-items-center.mt-4
+              img.w-card-icon(src="@/assets/curso/temas/tema1/ico16.png")
+              h3.bg13.py-2.w-card-text Modelo 4D de JWT
+      p El modelo 4D presenta al consumidor como el eje central de la comunicación; todas las estrategias y actividades están diseñadas para llegar a él. Como su nombre lo indica, se lleva a cabo en cuatro dimensiones, cada una de ellas ligada a las demás en cuanto al proceso de la comunicación, de esta forma se garantiza que el mercado sea captado por la campaña en una o varias de estas etapas; sin embargo, lo ideal y que proporciona verdadera efectividad del modelo, es que el mercado objetivo tenga participación e interacción en todas las etapas del proceso.
+      
+      .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 2.
+              span Modelo 4D de JWT
+            img(src='@/assets/curso/temas/tema1/img16.svg',alt="La imagen expone el “Modelo 4D de JWT,” que ilustra un enfoque centrado en el consumidor. En el centro del diagrama está el “CONSUMIDOR,” rodeado por capas concéntricas que representan “Experiencia,” “Conversación,” y “Conocimiento.” Cada capa simboliza un nivel de interacción y profundidad en la relación con el consumidor, enfatizando la importancia de conocer al cliente, mantener conversaciones significativas, y crear experiencias valiosas. Este modelo, citado de SENA (2020), subraya la necesidad de estrategias integradas en marketing y comunicación para conectar efectivamente con el público objetivo. ")
+            figcaption Fuente: SENA (2020)
+            p.py-4 A continuación, veremos el desarrollo de cada una de las dimensiones:
 
 
 
