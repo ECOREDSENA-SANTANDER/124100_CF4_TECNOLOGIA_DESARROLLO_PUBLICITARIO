@@ -201,14 +201,99 @@
       #t_1_2.titulo-segundo.color-acento-contenido
         h2 1.2 Modelos de campaña
 
+      .row.justify-content-center.mb-4
+        .col-lg-11
+          .bloque-texto-g.fondo-b.p-3.p-sm-4.p-md-5
+            .bloque-texto-g__img(
+              :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img14.png')})`}"
+            )
+            .bloque-texto-g__texto.p-5.mt-4.mb-4
+              p.mb-0 En los medios se pueden encontrar diferentes modelos de campaña creados por agencias de publicidad, cada uno de ellos con un enfoque y unos elementos diferenciadores, que al final derivan en una idea creativa conveniente para la empresa. Las campañas, por lo general, tienen elementos similares en sus estructuras; por este motivo, se describen algunos modelos para tener un criterio más estructurado y poder seleccionar el más adecuado:
 
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+          .col-sm-12.col-lg-7
+            .d-flex.align-items-center.mt-4
+              img.w-card-icon(src="@/assets/curso/temas/tema1/ico8.svg")
+              h3.bg13.py-2.w-card-text Modelo 360°
+      
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-4
+          img(src="@/assets/curso/temas/tema1/img15.png")
+        .col-lg-8
+          .cajon.color-secundario.p-4.mb-4
+            .h5 En la actualidad, no se habla de publicidad como se hacía hasta los años 90, por esto, hoy en día es necesario concebirla de forma integral: CIM (Comunicación Integral de Marketing). Una estrategia de CIM debe incluir todos los canales necesarios para llegar de manera efectiva al mercado.
+          p La campaña 360° también conocida como campaña integral o campaña holística, es aquella que se lanza a través de los distintos medios a los que se expone su público objetivo. Tal y como sugiere su nombre, se trata de rodear o envolver al consumidor (360 grados) para que le llegue el mensaje de una manera eficaz, sin saturar y alcanzar así los objetivos planteados. Sus elementos básicos son:
 
-
-
-
-
-
-
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12.col-sm-6
+          SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico9.png')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Objetivos
+                .py-2
+                  p.text-center De mercadeo (consignados en el plan) y de comunicación (mensajes y medios).
+                
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico10.png')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Presupuesto
+                .py-2
+                  p.text-center Cuánto cuesta y con cuánto cuenta la empresa.
+            
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico11.png')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Análisis de mercado meta
+                .py-2
+                  p.text-center Conocer al target de la forma más detallada posible para el desarrollo de la estrategia.
+            
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico12.png')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Plan de CIM
+                .py-2
+                  p.text-center Realizar un cronograma de los medios a utilizar, incluyendo la frecuencia, intensidad y alcance.
+            
+            .tarjeta.color-secundario-cus.p-4
+              .row.justify-content-center.mb-3
+                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/tema1/ico13.png')
+              .row.justify-content-center.mb-3
+                .col-lg-8.fondo-morado.p-1
+                  h5.text-center.text-white Estrategia creativa
+                .py-2
+                  p.text-center Acciones a realizar para la comunicación, estructura del mensaje.
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 1.
+              span Modelo 360
+            img(src='@/assets/curso/temas/tema1/img14.svg')
+            figcaption Fuente: SENA (2020)
+      p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
+        
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-10.fondoverde
+          br
+          br
+          .row.justify-content-center.align-items-center.mb-5
+            .col-lg-2
+              img(src='@/assets/curso/temas/tema1/ico24.svg')
+            .col-lg-9
+              h5.blancotexto En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
 
 
 
