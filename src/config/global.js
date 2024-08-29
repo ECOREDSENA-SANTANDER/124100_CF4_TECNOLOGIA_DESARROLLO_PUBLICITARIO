@@ -34,50 +34,16 @@ export default {
         numero: '1',
         titulo: '¿Qué es una campaña publicitaria?',
         desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema2',
-        numero: '2',
-        titulo: 'La comunicación interna',
-        desarrolloContenidos: true,
         subMenu: [
           {
-            numero: '2.1',
-            titulo: '¿Qué es la comunicación interna?',
-            hash: 't_2_1',
+            numero: '1.1',
+            titulo: 'Estructura de la campaña publicitaria',
+            hash: 't_1_1',
           },
           {
-            numero: '2.2',
-            titulo: 'Los públicos internos',
-            hash: 't_2_2',
-          },
-          {
-            numero: '2.3',
-            titulo: 'Mensajes en la comunicación interna',
-            hash: 't_2_3',
-          },
-          {
-            numero: '2.4',
-            titulo: 'Rutas de la información interna',
-            hash: 't_2_4',
-          },
-          {
-            numero: '2.5',
-            titulo: 'Errores y obstáculos de la comunicación interna',
-            hash: 't_2_5',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Plan de comunicación interna',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '3.1',
-            titulo: ' Medios para la comunicación interna',
-            hash: 't_3_1',
+            numero: '1.2',
+            titulo: 'Modelos de campaña',
+            hash: 't_1_2',
           },
         ],
       },
