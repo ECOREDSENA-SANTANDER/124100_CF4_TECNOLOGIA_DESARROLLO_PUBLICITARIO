@@ -135,22 +135,71 @@
           .col-md-8.mb-4.mb-md-0
             p Su intención es producir en el consumidor una reacción conductual; son los que buscan que el público objetivo realice algún tipo de acción en relación con la empresa, producto o servicio; también conocido como “call to action”. Estos objetivos se pueden enfocar en: inducir a la prueba o compra del producto, servicio o marca, modificar hábitos o costumbres de los consumidores, crear un comportamiento de compra o consumo, fomentar la asistencia al punto de venta, incentivar que se hable bien del producto.
             p Un objetivo de comunicación debe responder a las siguientes características básicas:
-            p Deben ser claros y concretos. Estar redactados de forma concisa y plantear clara y directamente lo que el anunciante quiere obtener, en qué medida y en qué tiempo.
-            p Los objetivos deben ser asumibles. Ya sea a nivel de presupuesto, es decir, que la empresa pueda absorber el costo económico que representará cumplir el objetivo, como también a nivel de realismo; lo que implica que se pueda llegar a lograr con un esfuerzo acorde al resultado esperado. No es conveniente que los objetivos adquieran un carácter utópico, ni tampoco que sean excesivamente fáciles de lograr, puesto que en ambos casos se puede producir una desmotivación de las personas involucradas en su consecución.
-            p Los objetivos deben ser flexibles. Es decir, se tienen que poder modificar o corregir en la medida de lo posible ante situaciones excepcionales o particulares que se le presenten a la organización, sean estas de carácter positivo o negativo. (Vilajoana, et al., 2014).
+            ul 
+              li 
+                i.fas.fa-plus.px-2.morado 
+                | Deben ser claros y concretos. Estar redactados de forma concisa y plantear clara y directamente lo que el anunciante quiere obtener, en qué medida y en qué tiempo.
+            ul 
+              li 
+                i.fas.fa-plus.px-2.morado   
+                | Los objetivos deben ser asumibles. Ya sea a nivel de presupuesto, es decir, que la empresa pueda absorber el costo económico que representará cumplir el objetivo, como también a nivel de realismo; lo que implica que se pueda llegar a lograr con un esfuerzo acorde al resultado esperado. No es conveniente que los objetivos adquieran un carácter utópico, ni tampoco que sean excesivamente fáciles de lograr, puesto que en ambos casos se puede producir una desmotivación de las personas involucradas en su consecución.
+            ul 
+              li 
+                i.fas.fa-plus.px-2.morado   
+                | Los objetivos deben ser flexibles. Es decir, se tienen que poder modificar o corregir en la medida de lo posible ante situaciones excepcionales o particulares que se le presenten a la organización, sean estas de carácter positivo o negativo. (Vilajoana, et al., 2014).
           .col-md-4.mb-4.mb-md-0
             img(src="@/assets/curso/temas/tema1/img11.png")
         
         .row(titulo="Objetivos de medios (cuantitativos)")
           .col-md-8.mb-4.mb-md-0
-            p Su intención principal es la de dar a conocer un producto, servicio o empresa; son aquellos mediante los que se busca crear o modificar el conocimiento que tienen los públicos sobre la compañía. Dichos objetivos pueden tener los siguientes enfoques: generar un recuerdo (notoriedad), comunicar las características del producto, servicio o empresa, informar de sus ventajas o beneficios, difundir su uso o aplicaciones, informar sobre aspectos de la compra, informar sobre promociones de ventas, actividades de relaciones públicas, etc.
+            p Por su parte, los objetivos de medios tienen un enfoque cuantitativo, puesto que su direccionamiento es la consecución de impactos del mensaje sobre el mercado objetivo; es decir, a cuántas personas va a llegar el mensaje, durante cuánto tiempo y la cantidad de veces en determinado tiempo: días, semanas, meses. Esto permite generar indicadores para realizar, posteriormente, una medición adecuada de la campaña y contrastar los resultados con otras variables como el aumento en las ventas y el retorno de la inversión. Los objetivos de medios pueden tener enfoque en los siguientes aspectos:
+            ul 
+              li 
+                i.fas.fa-plus.px-2.morado  
+                | #[b Alcance:] es decir, la cantidad de personas del grupo objetivo que la campaña va a impactar con el mensaje, a través de los medios de comunicación. El alcance se puede definir en cada medio con el estudio de audiencias que cada uno realice, los seguidores en redes sociales, el tráfico en sitios web o la segmentación que se hace en medios como Facebook, que muestran claramente cuántas personas van a ver determinado anuncio.
+            
           .col-md-4.mb-4.mb-md-0
-            img(src="@/assets/curso/temas/tema1/img09.png")
+            img(src="@/assets/curso/temas/tema1/img12.png")
+          .col-md-12.mb-4.mb-md-0 
+            ul 
+              li 
+                i.fas.fa-plus.px-2.morado
+                | #[b Frecuencia:] los objetivos orientados a esta variable definen la cantidad de veces que los mensajes van a impactar al público objetivo en un periodo de tiempo, por lo general se define por días, aunque también se puede enfocar a semanas o meses dependiendo del medio.
+              li 
+                i.fas.fa-plus.px-2.morado 
+                | #[b Intensidad:] esta variable enfoca los objetivos en el tiempo que la campaña va a estar al aire y en conjunto con la frecuencia, garantizan un mayor alcance que lo que al final puede generar mayor efectividad. Así que, una correcta combinación de los objetivos de medios puede derivar en un mayor impacto en la campaña. De nada sirve tener un muy buen concepto creativo y excelentes piezas si estas no van a llegar de la forma correcta al público objetivo.
+            p Tomando nuevamente como base a Vilajoana, et al. (2014), se establece que todos los objetivos deben tener, de ser posible, la siguiente estructura:
+            p #[b Intención:] explica el tema o la cuestión que la empresa desea mejorar o cambiar; expone lo que la empresa quiere lograr.
+            p #[b Medida:] señala el grado de modificación que se quiere obtener de la intención expresada.
+            p #[b Plazo:] indica el tiempo disponible o marcado para llegar a cumplir la intención descrita en el grado deseado.
+            p Aquí se puede ver un ejemplo de un objetivo construido con la estructura descrita:
+            p #[b Intención:] impactar con el mensaje…
+            p #[b Medida:] …al 35 % del público objetivo…
+            p #[b Plazo:] …en los siguientes 3 meses.
+            p Los objetivos de la campaña están condicionados por una serie de aspectos que se deberán tener en cuenta para su planteamiento. En el desarrollo de los objetivos de publicidad se incidirán, pues, tres condiciones básicas y relacionadas entre sí:
+            p #[b Recursos económicos:] por una parte, se tendrán las limitaciones usuales vinculadas a los recursos monetarios disponibles para lograr los objetivos planteados.
+            p #[b Recursos humanos:] por otra parte, estarán las restricciones ligadas a los recursos humanos necesarios para poder poner en práctica y controlar de forma adecuada los objetivos.
+            p #[b Tiempo disponible:] por último, también se deberán tener en cuenta las restricciones relacionadas con el tiempo disponible para el logro de los objetivos definidos.
+            br 
+            br
+          
+      
+      .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+          .col-sm-12.col-lg-7
+            .d-flex.align-items-center.mt-4
+              img.w-card-icon(src="@/assets/curso/temas/tema1/ico7.svg")
+              h3.bg13.py-2.w-card-text Estrategias de comunicación a realizar
+      
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-4
+          img(src="@/assets/curso/temas/tema1/img13.png")
+        .col-lg-6
+          p Las estrategias de comunicación que se verán más adelante son la base de la campaña, ya que trazan el camino para el cumplimiento de los objetivos de comunicación; en este punto, los planner de la agencia, el grupo creativo o el freelancer deben poner todo el ingenio para su creación y desarrollo.
+          p La estrategia de comunicación comprende varios enfoques dependiendo del tipo de campaña que se esté realizando y las necesidades de comunicación del producto o servicio. Dentro de estas, también se pueden contemplar la estrategia creativa y el plan de medios; sin embargo, en muchos modelos de campaña ambas son módulos aparte y se encuentran por fuera de la estructura.
 
-
-
-
-
+      Separador
+      #t_1_2.titulo-segundo.color-acento-contenido
+        h2 1.2 Modelos de campaña
 
 
 
