@@ -8,7 +8,7 @@
         h1 ¿Qué es una campaña publicitaria?
 
       .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img01.png", alt="")
         .col-lg-8 
           p Una campaña publicitaria es un plan de comunicación diseñado a corto o mediano plazo. Debido al crecimiento del mercado, la llegada constante de competidores, la globalización y la rapidez de la información, las campañas se planifican para periodos más cortos o con mayor frecuencia. Actualmente, es raro ver campañas de más de tres meses en los medios. Las redes sociales permiten realizarlas con menos inversión y producciones más sencillas y personalizadas. A pesar de ello, cualquier campaña sigue siendo un proceso de comunicación entre un anunciante y un consumidor, involucrando también a la agencia de publicidad, freelancers o grupos creativos.
@@ -32,7 +32,7 @@
           p Aquí, nos enfocaremos en el brief de campaña táctica, que destaca componentes cruciales para desarrollar el mensaje. Si la campaña es para una empresa con la que la agencia, grupo creativo o freelancer no ha tenido contacto previo, es recomendable también realizar un brief de primer contacto.
           p Un brief debe responder a preguntas básicas: ¿por qué se hace la campaña?, ¿qué se quiere transmitir en el mensaje publicitario?, y ¿qué se espera que haga la agencia, grupo creativo o freelancer?.
           p Los elementos más importantes del brief incluyen el análisis del consumidor, la descripción detallada del producto y el análisis de la competencia.
-        .col-lg-4 
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img02.png", alt="")
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -42,7 +42,7 @@
               h3.bg13.py-2.w-card-text Descripción del producto o servicio
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img03.png", alt="")
         .col-lg-6 
           p Para la agencia, el grupo creativo o el freelancer, uno de los elementos que mejor proveen datos para el desarrollo de la campaña, es el producto mismo y resulta muy importante que la empresa no deje escapar ningún detalle en relación con este; en ocasiones, es necesario que quien va a realizar la parte creativa de la campaña firme un acta de confidencialidad, con el fin de que el empresario otorgue toda la información posible sobre procesos de fabricación, canales de distribución, área de influencia, datos de la industria, participación en el mercado, protocolo de prestación del servicio, materias primas, proveedores, etc.
@@ -58,7 +58,7 @@
         .col-lg-6
           p Los productos de la empresa, por lo general tienen varias presentaciones, ya sea que se diferencien por su tamaño, sabor, aroma, olor, forma, tipo de empaque, entre otros aspectos. También se puede dar el caso de que la marca tenga una extensión; es decir, que bajo el mismo nombre se hayan creado productos diferentes, por ejemplo: el caso de la marca de una galleta que la utilizan para crear un helado y aprovechar su posicionamiento en el mercado, con el fin de generar ventas inmediatas.
           p Es indispensable que el empresario entregue toda esta información a los creativos que van a diseñar la campaña, pues de allí pueden surgir datos importantes para la comunicación, textos de apoyo, acciones de marketing, activaciones de marca o cualquier otro recurso útil para persuadir al mercado objetivo. 
-        .col-lg-4 
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img04.png", alt="")
 
 
@@ -69,7 +69,7 @@
               h3.bg13.py-2.w-card-text Mercado objetivo
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img05.png", alt="")
         .col-lg-6 
           p Como vimos en materiales anteriores, tal vez el aspecto más relevante del proceso de la comunicación sea el conocimiento que se tenga del consumidor. En este punto los creativos deben ser muy enfáticos con el empresario, ya que es muy común que para el dueño de una mipyme, la cobertura del mercado sea muy amplia y no haya una información clara del análisis del consumidor; por eso es muy importante que se apliquen en detalle las variables demográficas y se realice su debida cuantificación; adicional y más importante aún, individualizar el mercado a través de las características psicográficas, pues con las cuales se crean las estrategias más efectivas de comunicación. 
@@ -84,7 +84,7 @@
         .col-lg-6
           p Para la realización de una estrategia de comunicación que involucra el desarrollo de piezas y el uso de diferentes medios, es vital que la marca sea presentada y expuesta de acuerdo con los lineamientos del manual de identidad; teniendo en cuenta dentro de este documento: los criterios relacionados con el color, el uso de tipografías, el manejo del logo y su ubicación en las piezas gráficas, las áreas de reserva, los tamaños mínimos y variaciones permitidas para la marca, entre otros.
           p No es definirlos o alterarlos para la campaña y favorecer el posicionamiento, toda vez que de esta forma se estandariza el manejo de la marca, creando en el consumidor una imagen definida con elementos que asocia a esta.
-        .col-lg-4 
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img06.png", alt="")
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -94,7 +94,7 @@
               h3.bg13.py-2.w-card-text Personalidad de marca
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img07.png", alt="")
         .col-lg-6 
           p Como ya se indicó, el desarrollo de una estrategia de comunicación debe ir de la mano con la identidad corporativa de la empresa. La identidad está compuesta de múltiples elementos, entre ellos la personalidad de marca, la cual contiene aspectos del mercado que generan empatía entre el producto y los consumidores; con base en esta información se puede definir el look de la comunicación, el tipo de lenguaje a utilizar, el tipo de imágenes o ilustraciones que deberán contener las piezas gráficas o audiovisuales que incluirá la campaña, debido a que la personalidad de marca está ligada a los aspectos cualitativos del mercado; es decir, a sus características psicográficas.
@@ -191,7 +191,7 @@
               h3.bg13.py-2.w-card-text Estrategias de comunicación a realizar
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img13.png")
         .col-lg-6
           p Las estrategias de comunicación que se verán más adelante son la base de la campaña, ya que trazan el camino para el cumplimiento de los objetivos de comunicación; en este punto, los planner de la agencia, el grupo creativo o el freelancer deben poner todo el ingenio para su creación y desarrollo.
@@ -217,7 +217,7 @@
               h3.bg13.py-2.w-card-text Modelo 360°
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img15.png")
         .col-lg-8
           .cajon.color-secundario.p-4.mb-4
@@ -277,8 +277,8 @@
                 .py-2
                   p.text-center Acciones a realizar para la comunicación, estructura del mensaje.
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-6
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          .col-lg-6.col-10
+            .titulo-sexto.color-secundario(data-aos='fade-right')
               h5 Figura 1.
               span Modelo 360
             img(src='@/assets/curso/temas/tema1/img14.svg')
@@ -290,7 +290,7 @@
           br
           br
           .row.justify-content-center.align-items-center.mb-5
-            .col-lg-2
+            .col-lg-2.col-4.py-1.col-sm-2
               img(src='@/assets/curso/temas/tema1/ico24.svg')
             .col-lg-9
               h5.blancotexto En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
@@ -303,7 +303,7 @@
       p Es un modelo eficaz desarrollado por la agencia Y&R en los años 90. La base principal es el uso de los insights de los consumidores (los momentos de uso e interacción con el producto):
       
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4
+        .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img15.svg")
         .col-lg-6
           .bgimg2.p-4
@@ -355,18 +355,90 @@
       p El modelo 4D presenta al consumidor como el eje central de la comunicación; todas las estrategias y actividades están diseñadas para llegar a él. Como su nombre lo indica, se lleva a cabo en cuatro dimensiones, cada una de ellas ligada a las demás en cuanto al proceso de la comunicación, de esta forma se garantiza que el mercado sea captado por la campaña en una o varias de estas etapas; sin embargo, lo ideal y que proporciona verdadera efectividad del modelo, es que el mercado objetivo tenga participación e interacción en todas las etapas del proceso.
       
       .row.justify-content-center.align-items-center.mb-5
-          .col-lg-6
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          .col-lg-6.col-10
+            .titulo-sexto.color-secundario(data-aos='fade-right')
               h5 Figura 2.
               span Modelo 4D de JWT
             img(src='@/assets/curso/temas/tema1/img16.svg',alt="La imagen expone el “Modelo 4D de JWT,” que ilustra un enfoque centrado en el consumidor. En el centro del diagrama está el “CONSUMIDOR,” rodeado por capas concéntricas que representan “Experiencia,” “Conversación,” y “Conocimiento.” Cada capa simboliza un nivel de interacción y profundidad en la relación con el consumidor, enfatizando la importancia de conocer al cliente, mantener conversaciones significativas, y crear experiencias valiosas. Este modelo, citado de SENA (2020), subraya la necesidad de estrategias integradas en marketing y comunicación para conectar efectivamente con el público objetivo. ")
             figcaption Fuente: SENA (2020)
             p.py-4 A continuación, veremos el desarrollo de cada una de las dimensiones:
+      
+      TabsA.color-acento-botones.mb-5
+        .tarjeta.color-acento-botones--borde.p-4(titulo="Dimensión 1 - conocimiento")
+          .row.justify-content-center.align-items-center.mb-5
+            .col-xl-5
+              h4 Dimensión 1 - conocimiento 
+              p Se realizan esfuerzos ATL (Above The Line) y se genera entendimiento del producto o servicio; aquí hay un alto nivel de información por parte de la empresa hacia el mercado objetivo, con el fin de que este reciba todo el conocimiento posible acerca de la marca para que tenga más herramientas para tomar la decisión de compra.
+            .col-xl-5.mb-4.col-10
+              .titulo-sexto.color-secundario(data-aos='fade-right')
+                h5 Figura 3.
+                span Conocimiento
+              img(src="@/assets/curso/temas/tema1/figura3.svg", alt="La imagen describe la primera dimensión del “Modelo 4D de JWT,” denominada “Conocimiento.” Esta dimensión se enfoca en los esfuerzos de marketing Above The Line (ATL) para generar un entendimiento profundo del producto o servicio entre los consumidores. A través de múltiples canales como televisión, prensa, revistas, exteriores, carteles, transporte público, cine, radio, internet y relaciones públicas, la empresa proporciona una gran cantidad de información al mercado objetivo.")
+              figcaption Fuente: SENA (2020)
+        
+        .tarjeta.color-acento-botones--borde.p-4(titulo="Dimensión 2 - conversación")
+          .row.justify-content-center.align-items-center.mb-5
+            .col-xl-5
+              h4 Dimensión 2 - conversación 
+              p El consumidor ya conoce el producto, debido a la información recibida en medios masivos convencionales, ahora debe comenzar un proceso de interacción entre ellos, con el fin de que las características del producto y las ventajas competitivas sean evidentes para el mercado objetivo.
+              p En este punto, los medios utilizados para el desarrollo de las estrategias de comunicación son más directos y permiten al mercado tener una verdadera conversación con la marca.
+            .col-xl-5.mb-4.col-10
+              .titulo-sexto.color-secundario(data-aos='fade-right')
+                h5 Figura 4. 
+                span Conversación
+              img(src="@/assets/curso/temas/tema1/figura4.svg", alt="La imagen ilustra la segunda dimensión del “Modelo 4D de JWT,” denominada “Conversación.” En esta etapa, el consumidor ya está informado sobre el producto gracias a los medios masivos convencionales y comienza un proceso de interacción con la marca. El objetivo es que las características y ventajas competitivas del producto se hagan evidentes para el mercado objetivo. Los medios utilizados en esta fase son más directos e incluyen testimonios de expertos, programas de fidelización, correo directo, concursos, bonos, clubes, ofertas de TV y DR radio. Estos medios permiten al mercado tener una conversación real con la marca. La fuente citada es SENA (2020).")
+              figcaption Fuente: SENA (2020)
+        
+        .tarjeta.color-acento-botones--borde.p-4(titulo="Dimensión 3 - experiencia")
+          .row.justify-content-center.align-items-center.mb-5
+            .col-xl-5
+              h4 Dimensión 3 - experiencia
+              p El consumidor y la marca se vuelven más cercanos, casi amigos. En este punto, ya la marca satisface los deseos y gustos del mercado y este a su vez, responde con compras frecuentes y recomendaciones de la marca a sus amigos y conocidos.
+            .col-xl-5.mb-4.col-10
+              .titulo-sexto.color-secundario(data-aos='fade-right')
+                h5 Figura 5. 
+                span Experiencia
+              img(src="@/assets/curso/temas/tema1/figura5.svg", alt="La imagen describe la tercera dimensión del “Modelo 4D de JWT,” denominada “Experiencia.” En esta etapa, el consumidor y la marca se vuelven más cercanos, casi amigos. La marca satisface los deseos y gustos del mercado, lo cual se traduce en compras frecuentes y recomendaciones de la marca a amigos y conocidos. Los medios utilizados para fomentar esta experiencia incluyen P.O.P., sponsor, entretenimiento y estilo de vida, tarjetas para fechas especiales, eventos y ferias, tomas en puntos de venta, contenidos de internet e interacción vía web. La fuente citada es SENA (2020). ")
+              figcaption Fuente: SENA (2020)
 
+        .tarjeta.color-acento-botones--borde.p-4(titulo="Dimensión 4 - personal")
+          .row.justify-content-center.align-items-center.mb-5
+            .col-xl-5
+              h4 Dimensión 4 - personal
+              p La marca se dirige al consumidor por su nombre, es personalizada y la relación con el cliente es directa.
+              p La empatía que existe entre ambos es total, la marca y el cliente tienen rasgos muy similares de personalidad.
+            .col-xl-5.mb-4.col-10
+              .titulo-sexto.color-secundario(data-aos='fade-right')
+                h5 Figura 6. 
+                span Personal
+              img(src="@/assets/curso/temas/tema1/figura6.svg", alt="La imagen muestra un “Ejemplo mix de medios sobre modelo 4D,” que integra diferentes canales de comunicación utilizados en las cuatro dimensiones del Modelo 4D de JWT. En el centro están los mensajes móviles y online, rodeados por una capa que incluye sponsor, tarjetas para fechas especiales, concursos y tomas en puntos de venta. Más allá de esta capa, se encuentran los medios de programas de fidelización, revistas, DR radio, televisión, radio, cine y transporte público. Este diagrama ilustra cómo combinar diversos medios para alcanzar a los consumidores de manera integral y efectiva. La fuente citada es SENA (2020).")
+              figcaption Fuente: SENA (2020)   
+            
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-10.fondoverde
+          br
+          br
+          .row.justify-content-center.align-items-center.mb-5
+            .col-lg-2.col-4.col-sm-2
+              img(src='@/assets/curso/temas/tema1/ico24.svg')
+            .col-lg-9
+              h5.blancotexto Basado en lo anterior, a continuación, se relaciona un ejemplo del mix de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360°, debido al uso de todos los medios posibles para generar una interacción con los clientes.
+      P.text-center Es importante aclarar que este modelo está concebido para desarrollarse a largo plazo y de acuerdo con el ciclo de vida del consumidor:
 
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-6.col-10
+          .titulo-sexto.color-secundario(data-aos='fade-right')
+            h5 Figura 7. 
+            span Ejemplo mix de medios sobre modelo 4D
+          img(src="@/assets/curso/temas/tema1/figura7.svg", alt="La imagen detalla la cuarta dimensión del “Modelo 4D de JWT,” denominada “Personal.” En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla marketing. La fuente citada es SENA (2020). ")
+          figcaption Fuente: SENA (2020)   
+      p Una vez conocida la estructura de la campaña publicitaria y estudiados tres modelos de campaña realizados por agencias multinacionales, es viable que el aprendiz pueda tomar la decisión de cuál modelo es el más adecuado o qué elementos de cada uno de ellos adoptaría para el desarrollo de las estrategias de comunicación para una empresa.
 
-
-
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-8
+          .cajon.color-secundario.p-4.mb-4
+            p Lo importante es que las estrategias que se planteen, tanto desde el punto de vista técnico en la selección de medios y actividades de marketing, como en la parte creativa, sean apropiadas para el producto e impacten de forma eficiente al consumidor, para facilitarle el proceso de comprar y satisfacer sus necesidades, gustos, deseos y demandas como él lo espera.
+          
 
 
 
