@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Estructura de la campaña publicitaria',
     descripcionCurso:
       'El desarrollo de una campaña publicitaria abarca tres elementos clave: la investigación, el brief y la identidad corporativa. Estos componentes forman la base del proceso de comunicación y establecen la ruta para una conversación eficaz con el cliente. Es importante destacar que existen numerosos modelos de campañas publicitarias, con cada agencia de publicidad empleando su propio enfoque.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -53,6 +53,7 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
+        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'actividad',

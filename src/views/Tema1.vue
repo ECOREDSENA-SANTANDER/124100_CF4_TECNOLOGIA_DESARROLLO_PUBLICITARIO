@@ -16,7 +16,7 @@
             .h5 El desarrollo de una campaña publicitaria abarca tres elementos clave: la investigación, el brief y la identidad corporativa. Estos componentes son fundamentales para el proceso de comunicación y establecen la ruta para una conversación eficaz con el cliente. Aunque cada agencia publicitaria tiene su propio modelo, todos siguen un proceso similar con elementos estándar que se describirán a continuación. Algunos de estos elementos se abordarán en mayor profundidad en otros materiales, por lo que aquí se presentan de manera básica.
       
       Separador
-      #t_1_1.titulo-segundo.color-acento-contenido
+      #t_1_1.titulo-segundo.color-secundario
         h2 1.1 Estructura de la campaña publicitaria
       
       p La estructura que se relaciona a continuación es estándar y contiene los elementos más relevantes, esto implica que existen métodos con otros puntos adicionales o que no se tienen en cuenta, o que se nombran de forma diferente:  
@@ -100,9 +100,9 @@
           p Como ya se indicó, el desarrollo de una estrategia de comunicación debe ir de la mano con la identidad corporativa de la empresa. La identidad está compuesta de múltiples elementos, entre ellos la personalidad de marca, la cual contiene aspectos del mercado que generan empatía entre el producto y los consumidores; con base en esta información se puede definir el look de la comunicación, el tipo de lenguaje a utilizar, el tipo de imágenes o ilustraciones que deberán contener las piezas gráficas o audiovisuales que incluirá la campaña, debido a que la personalidad de marca está ligada a los aspectos cualitativos del mercado; es decir, a sus características psicográficas.
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
-          .col-sm-12.col-lg-7
+          .col-sm-12.col-lg-8
             .d-flex.align-items-center.mt-4
-              img.w-card-icon(src="@/assets/curso/temas/tema1/ico6.svg")
+              img.w-card-icon(src="@/assets/curso/temas/tema1/ico17.png")
               h3.bg13.py-2.w-card-text Objetivos de comunicación (enfocados en el mensaje)
 
       .row.justify-content-center.mb-4
@@ -118,7 +118,7 @@
 
       p Los objetivos de comunicación se pueden direccionar a varios enfoques, de acuerdo con las necesidades de comunicación de la empresa. Por tal motivo, basados en los autores mencionados, se indican los siguientes:
   
-      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
+      AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
         .row(titulo="Objetivos de conocimiento")
           .col-md-8.mb-4.mb-md-0
             p Su intención principal es la de dar a conocer un producto, servicio o empresa; son aquellos mediante los que se busca crear o modificar el conocimiento que tienen los públicos sobre la compañía. Dichos objetivos pueden tener los siguientes enfoques: generar un recuerdo (notoriedad), comunicar las características del producto, servicio o empresa, informar de sus ventajas o beneficios, difundir su uso o aplicaciones, informar sobre aspectos de la compra, informar sobre promociones de ventas, actividades de relaciones públicas, etc.
@@ -198,7 +198,7 @@
           p La estrategia de comunicación comprende varios enfoques dependiendo del tipo de campaña que se esté realizando y las necesidades de comunicación del producto o servicio. Dentro de estas, también se pueden contemplar la estrategia creativa y el plan de medios; sin embargo, en muchos modelos de campaña ambas son módulos aparte y se encuentran por fuera de la estructura.
 
       Separador
-      #t_1_2.titulo-segundo.color-acento-contenido
+      #t_1_2.titulo-segundo.color-secundario
         h2 1.2 Modelos de campaña
 
       .row.justify-content-center.mb-4
@@ -343,9 +343,41 @@
                   h5.px-4 Valores
                   p.px-4 ¿Cuál es el valor clave que dirige la misión?.
 
+      
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12
-          img(src="@/assets/curso/temas/tema1/img16.png")
+        .col-lg-6.verde.p-4
+          ul.ul
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | ¿Cuál es el objetivo de marketing?
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | ¿A qué target (público) se va a dirigir el mensaje?
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | ¿Qué acción se desea que el target realice?
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | ¿Cuáles son las barreras para la acción deseada?
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | ¿Qué recompensa se va a prometer y que apoyo se le va a dar?
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | ¿Cuáles son las mejores formas para comunicar el mensaje?
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | ¿Cuál key insight provee la base para una campaña exitosa?
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | Estrategias de promoción.
+            li 
+              i.fas.fa-plus.px-2.morado 
+              | Estrategia urgente para público no cautivo. 
+        .col-lg-6.amarillo
+          img(src="@/assets/curso/temas/tema1/amarillo.svg")
+      
+
       
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
