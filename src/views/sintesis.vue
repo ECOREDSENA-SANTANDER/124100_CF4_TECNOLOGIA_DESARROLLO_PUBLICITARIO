@@ -4,7 +4,6 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        img(src="@/assets/curso/banner.svg", alt="alt")
         .py-4
         p Una campaña publicitaria es un plan estratégico a corto o mediano plazo que utiliza diversos canales de comunicación, como cine, prensa, radio, televisión, redes sociales, promociones y puntos de venta, para promocionar un producto, servicio o marca. Basada en la investigación, el brief y la identidad corporativa, busca alcanzar al público objetivo de manera efectiva. Modelos como el 360° y el 4D ayudan a diversificar los medios utilizados, garantizando una estrategia integral y coherente.
     .row.justify-content-center

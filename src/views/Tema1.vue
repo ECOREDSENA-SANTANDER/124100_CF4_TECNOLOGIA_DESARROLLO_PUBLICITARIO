@@ -169,9 +169,16 @@
                 i.fas.fa-plus.px-2.morado 
                 | #[b Intensidad:] esta variable enfoca los objetivos en el tiempo que la campaña va a estar al aire y en conjunto con la frecuencia, garantizan un mayor alcance que lo que al final puede generar mayor efectividad. Así que, una correcta combinación de los objetivos de medios puede derivar en un mayor impacto en la campaña. De nada sirve tener un muy buen concepto creativo y excelentes piezas si estas no van a llegar de la forma correcta al público objetivo.
             p Tomando nuevamente como base a Vilajoana, et al. (2014), se establece que todos los objetivos deben tener, de ser posible, la siguiente estructura:
-            p #[b Intención:] explica el tema o la cuestión que la empresa desea mejorar o cambiar; expone lo que la empresa quiere lograr.
-            p #[b Medida:] señala el grado de modificación que se quiere obtener de la intención expresada.
-            p #[b Plazo:] indica el tiempo disponible o marcado para llegar a cumplir la intención descrita en el grado deseado.
+            ul 
+              li 
+                i.fas.fa-plus.px-2.morado 
+                | #[b Intención:] explica el tema o la cuestión que la empresa desea mejorar o cambiar; expone lo que la empresa quiere lograr.
+              li 
+                i.fas.fa-plus.px-2.morado 
+                | #[b Medida:] señala el grado de modificación que se quiere obtener de la intención expresada.
+              li 
+                i.fas.fa-plus.px-2.morado 
+                | #[b Plazo:] indica el tiempo disponible o marcado para llegar a cumplir la intención descrita en el grado deseado.
             p Aquí se puede ver un ejemplo de un objetivo construido con la estructura descrita:
             p #[b Intención:] impactar con el mensaje…
             p #[b Medida:] …al 35 % del público objetivo…
@@ -229,51 +236,51 @@
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-6.my-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico9.png')
               .row.justify-content-center.mb-3
                 .col-lg-8.fondo-morado.p-1
-                  h5.text-center.text-white Objetivos
+                  h4.text-center.text-white Objetivos
                 .py-2
                   p.text-center De mercadeo (consignados en el plan) y de comunicación (mensajes y medios).
                 
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-6.my-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico10.png')
               .row.justify-content-center.mb-3
                 .col-lg-8.fondo-morado.p-1
-                  h5.text-center.text-white Presupuesto
+                  h4.text-center.text-white Presupuesto
                 .py-2
                   p.text-center Cuánto cuesta y con cuánto cuenta la empresa.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-6.my-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico11.png')
               .row.justify-content-center.mb-3
                 .col-lg-8.fondo-morado.p-1
-                  h5.text-center.text-white Análisis de mercado meta
+                  h4.text-center.text-white Análisis de mercado meta
                 .py-2
                   p.text-center Conocer al target de la forma más detallada posible para el desarrollo de la estrategia.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-6.my-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico12.png')
               .row.justify-content-center.mb-3
                 .col-lg-8.fondo-morado.p-1
-                  h5.text-center.text-white Plan de CIM
+                  h4.text-center.text-white Plan de CIM
                 .py-2
                   p.text-center Realizar un cronograma de los medios a utilizar, incluyendo la frecuencia, intensidad y alcance.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
-                .col-sm-3.col-lg-5.my-5.d-none.d-lg-block
+                .col-sm-3.col-lg-6.my-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema1/ico13.png')
               .row.justify-content-center.mb-3
                 .col-lg-8.fondo-morado.p-1
-                  h5.text-center.text-white Estrategia creativa
+                  h4.text-center.text-white Estrategia creativa
                 .py-2
                   p.text-center Acciones a realizar para la comunicación, estructura del mensaje.
         .row.justify-content-center.align-items-center.mb-5
@@ -285,13 +292,11 @@
             figcaption Fuente: SENA (2020)
       p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
         
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-10.fondoverde
-          br
-          br
-          .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-9.fondoverde.p-2
+          .row.justify-content-center.align-items-center.mb-2
             .col-lg-2.col-4.py-1.col-sm-2
-              img(src='@/assets/curso/temas/tema1/ico24.svg')
+              img.width(src='@/assets/curso/temas/tema1/ico24.svg')
             .col-lg-9
               h5.blancotexto En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
 
@@ -447,12 +452,10 @@
               figcaption Fuente: SENA (2020)   
             
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-10.fondoverde
-          br
-          br
-          .row.justify-content-center.align-items-center.mb-5
+        .col-lg-10.fondoverde.p-2
+          .row.justify-content-center.align-items-center
             .col-lg-2.col-4.col-sm-2
-              img(src='@/assets/curso/temas/tema1/ico24.svg')
+              img.width(src='@/assets/curso/temas/tema1/ico24.svg')
             .col-lg-9
               h5.blancotexto Basado en lo anterior, a continuación, se relaciona un ejemplo del mix de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360°, debido al uso de todos los medios posibles para generar una interacción con los clientes.
       P.text-center Es importante aclarar que este modelo está concebido para desarrollarse a largo plazo y de acuerdo con el ciclo de vida del consumidor:
