@@ -8,11 +8,11 @@
         span
           i.fas.fa-info
       h1 Introducción
-    
+    P Las campañas publicitarias son estrategias diseñadas para comunicar un mensaje claro y persuasivo a un público objetivo, con el fin de promover productos, servicios, ideas o incluso valores. En este video, exploraremos qué es una campaña publicitaria, cómo se estructura, cuáles son sus principales elementos y su importancia para lograr conexiones efectivas entre las marcas y los consumidores. A través de ejemplos y conceptos clave, comprenderás el impacto que tienen estas campañas en el mundo del marketing y la comunicación.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/1eJjSzqVAVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: ¿Qué es una campaña publicitaria?
     
 
 </template>

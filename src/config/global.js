@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Estructura de la campaña publicitaria',
     descripcionCurso:
-      'El desarrollo de una campaña publicitaria abarca tres elementos clave: la investigación, el brief y la identidad corporativa. Estos componentes forman la base del proceso de comunicación y establecen la ruta para una conversación eficaz con el cliente. Es importante destacar que existen numerosos modelos de campañas publicitarias, con cada agencia de publicidad empleando su propio enfoque.',
+      'El desarrollo de una campaña publicitaria abarca tres elementos clave: la investigación, el <i>brief</i> y la identidad corporativa. Estos componentes forman la base del proceso de comunicación y establecen la ruta para una conversación eficaz con el cliente. Es importante destacar que existen numerosos modelos de campañas publicitarias, con cada agencia de publicidad empleando su propio enfoque.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -67,11 +67,6 @@ export default {
         titulo: 'Glosario',
       },
       {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
-      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -96,132 +91,80 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Castelló, A. Pino, C. (2019). De la Publicidad a la Comunicación Persuasiva. Esic Editorial.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://books.google.es/books?hl=es&lr=&id=iPORDwAAQBAJ&oi=fnd&pg=PA18&dq=De+la+Publicidad+a+la+Comunicaci%C3%B3n+Persuasiva.&ots=uUZamFYkQW&sig=N-cM6g8XILA7irxFLNpMvY49AWA#v=onepage&q=De%20la%20Publicidad%20a%20la%20Comunicaci%C3%B3n%20Persuasiva.&f=false',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Cardenas A. (2019). ESTRATEGIAS DE COMUNICACIÓN Y MARKETING PARA EL POSICIONAMIENTO DE LA MARCA DE LA EMPRESA “PROELECTRIC”. Tesis.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://repositorio.puce.edu.ec/server/api/core/bitstreams/598b185e-1683-4c19-99e1-947737e33544/content',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Molano. J. (2023 ) Blog. Cómo hacer un plan de comunicación (con ejemplos y plantilla) ',
+      link: 'https://blog.hubspot.es/marketing/crear-plan-comunicacion#que-es',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Medina, P. y Ferrer, I. (2014). Dirección Empresarial para Publicitarios. Editorial Dykinson. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://books.google.com.co/books?id=HwjdBAAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Reimers Design. (s.f.). Pequeño Diccionario del Diseñador. Consultado el 27 de mayo de 2020 ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.academia.edu/23225540/Peque%C3%B1o_Diccionario_del_Dise%C3%B1ador',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Pablo Orellana Nirian , 06 de julio, 2020 Comunicación estratégica. Economipedia.com ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://economipedia.com/definiciones/comunicacion-estrategica.html',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Vilajoana, A., Jiménez, M., González, Z. y Vila, J. (2014). ¿Cómo diseñar una campaña de publicidad? Editorial UOC. ',
+      link: 'https://blog.hubspot.es/marketing/campana-publicitaria',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Briefing',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        '<i>marketing</i>. Conjunto de datos sobre la empresa, sus objetivos y estrategia; que sirven de base al consultor o diseñador para plantear la comunicación corporativa. Término inglés que engloba las instrucciones que el cliente da a su proveedor para que de acuerdo con ellas desarrolle la campaña de <i>Marketing</i> Directo desde la idea global hasta el envío del <i>mailing.</i>',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Canal',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'en teoría de la comunicación, camino técnico o fisiológico que recorre un mensaje desde el emisor hasta el receptor',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Comunicación',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'es hacer común un significado a una comunidad, con el fin de que toda ella pueda comulgar en la comprensión de este. Proceso por el cual una fuente emisora influye sobre un sistema receptor a través de la manipulación de signos (creatividad, combinatoria, codificación), configurando mensajes y circulándolos por medio de determinados canales físicos.',
     },
     {
-      termino: '<em>Áctores</em>',
+      termino: 'Creatividad',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'actividad creadora o capacidad imaginativa de hallar soluciones nuevas o ideas originales. La creatividad es la aptitud del ser humano para la combinatoria, es decir, la combinación de formas y mensajes nuevos a partir de combinaciones originales de signos.',
     },
     {
-      termino: 'Moda',
+      termino: '<i>marketing</i>',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'técnicas que persiguen la selección de mercados objetivos, la identificación y cuantificación de las necesidades de esos mercados, el desarrollo de productos y servicios que satisfagan estas necesidades.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Posicionamiento',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'situación de una marca en el mercado, respecto a sus competidores.',
     },
     {
-      termino: 'DIseño',
+      termino: 'RR.PP / Relaciones Públicas',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-  ],
-  complementario: [
-    {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: 'Estrategias para la segmentación de mercados',
-      referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'acciones de comunicación destinadas a la creación y el mantenimiento de una imagen positiva de las empresas o instituciones ante grupos específicos: prensa, clientes. ',
     },
   ],
   creditos: [
@@ -230,13 +173,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos ',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander - Centro Agroturístico',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -244,35 +187,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Manuel Augusto Arias López ',
-          cargo: 'Instructor – Experto temático',
-          centro: 'Centro de Comercio y Servicios – Regional Quindío ',
-          fecha: 'Mayo de 2020',
-        },
-        {
-          nombre: 'Andrés Felipe Velandia Espitia ',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital ',
-          fecha: 'Mayo de 2020',
-        },
-        {
-          nombre: 'Julieth Paola Vital López ',
-          cargo: 'Evaluadora Instruccional ',
-          centro:
-            'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital ',
-          fecha: 'Mayo de 2020',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes ',
-          cargo: 'Asesor pedagógico ',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
-          fecha: 'Mayo de 2020',
-        },
-        {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
           fecha: 'Mayo,2024',
         },
       ],
@@ -282,23 +199,23 @@ export default {
       autores: [
         {
           nombre: 'Julián Fernando Vanegas Vera',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Diseñador de contenidos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrollador <i>Full Stack</i>',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Desarrollador <i>full stack</i>',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Maria Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador <i>Full Stack</i> Junior',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Desarrollador <i>full stack</i> junior',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -307,13 +224,13 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
-          cargo: 'Validadora de Recursos Educativos Digitales',
-          centro: 'Regional Santander - Centro Agroturístico',
+          cargo: 'Validadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Diana Lizeth Lozada Díaz',
-          cargo: 'Evaluadora para Contenidos Inclusivos y Accesibles',
-          centro: 'Regional Santander - Centro Agroturístico',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },

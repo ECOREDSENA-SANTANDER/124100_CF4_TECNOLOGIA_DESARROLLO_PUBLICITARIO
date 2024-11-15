@@ -11,9 +11,9 @@
         .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img01.png", alt="")
         .col-lg-8 
-          p Una campaña publicitaria es un plan de comunicación diseñado a corto o mediano plazo. Debido al crecimiento del mercado, la llegada constante de competidores, la globalización y la rapidez de la información, las campañas se planifican para periodos más cortos o con mayor frecuencia. Actualmente, es raro ver campañas de más de tres meses en los medios. Las redes sociales permiten realizarlas con menos inversión y producciones más sencillas y personalizadas. A pesar de ello, cualquier campaña sigue siendo un proceso de comunicación entre un anunciante y un consumidor, involucrando también a la agencia de publicidad, freelancers o grupos creativos.
+          p Una campaña publicitaria es un plan de comunicación diseñado a corto o mediano plazo. Debido al crecimiento del mercado, la llegada constante de competidores, la globalización y la rapidez de la información, las campañas se planifican para periodos más cortos o con mayor frecuencia. Actualmente, es raro ver campañas de más de tres meses en los medios. Las redes sociales permiten realizarlas con menos inversión y producciones más sencillas y personalizadas. A pesar de ello, cualquier campaña sigue siendo un proceso de comunicación entre un anunciante y un consumidor, involucrando también a la agencia de publicidad, #[em freelancers] o grupos creativos.
           .cajon.color-secundario.p-4.mb-4
-            .h5 El desarrollo de una campaña publicitaria abarca tres elementos clave: la investigación, el brief y la identidad corporativa. Estos componentes son fundamentales para el proceso de comunicación y establecen la ruta para una conversación eficaz con el cliente. Aunque cada agencia publicitaria tiene su propio modelo, todos siguen un proceso similar con elementos estándar que se describirán a continuación. Algunos de estos elementos se abordarán en mayor profundidad en otros materiales, por lo que aquí se presentan de manera básica.
+            p El desarrollo de una campaña publicitaria abarca tres elementos clave: la investigación, el #[em brief] y la identidad corporativa. Estos componentes son fundamentales para el proceso de comunicación y establecen la ruta para una conversación eficaz con el cliente. Aunque cada agencia publicitaria tiene su propio modelo, todos siguen un proceso similar con elementos estándar que se describirán a continuación. Algunos de estos elementos se abordarán en mayor profundidad en otros materiales, por lo que aquí se presentan de manera básica.
       
       Separador
       #t_1_1.titulo-segundo.color-secundario
@@ -25,13 +25,13 @@
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-4
               img.w-card-icon(src="@/assets/curso/temas/tema1/ico1.svg")
-              h3.bg13.py-2.w-card-text El brief
+              h3.bg13.py-2.w-card-text El #[em brief]
       
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
-          p Aquí, nos enfocaremos en el brief de campaña táctica, que destaca componentes cruciales para desarrollar el mensaje. Si la campaña es para una empresa con la que la agencia, grupo creativo o freelancer no ha tenido contacto previo, es recomendable también realizar un brief de primer contacto.
-          p Un brief debe responder a preguntas básicas: ¿por qué se hace la campaña?, ¿qué se quiere transmitir en el mensaje publicitario?, y ¿qué se espera que haga la agencia, grupo creativo o freelancer?.
-          p Los elementos más importantes del brief incluyen el análisis del consumidor, la descripción detallada del producto y el análisis de la competencia.
+          p Aquí, nos enfocaremos en el #[em brief] de campaña táctica, que destaca componentes cruciales para desarrollar el mensaje. Si la campaña es para una empresa con la que la agencia, grupo creativo o #[em freelancer] no ha tenido contacto previo, es recomendable también realizar un brief de primer contacto.
+          p Un #[em brief] debe responder a preguntas básicas: ¿por qué se hace la campaña?, ¿qué se quiere transmitir en el mensaje publicitario?, y ¿qué se espera que haga la agencia, grupo creativo o #[em freelancer]?.
+          p Los elementos más importantes del #[em brief] incluyen el análisis del consumidor, la descripción detallada del producto y el análisis de la competencia.
         .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img02.png", alt="")
 
@@ -45,7 +45,7 @@
         .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img03.png", alt="")
         .col-lg-6 
-          p Para la agencia, el grupo creativo o el freelancer, uno de los elementos que mejor proveen datos para el desarrollo de la campaña, es el producto mismo y resulta muy importante que la empresa no deje escapar ningún detalle en relación con este; en ocasiones, es necesario que quien va a realizar la parte creativa de la campaña firme un acta de confidencialidad, con el fin de que el empresario otorgue toda la información posible sobre procesos de fabricación, canales de distribución, área de influencia, datos de la industria, participación en el mercado, protocolo de prestación del servicio, materias primas, proveedores, etc.
+          p Para la agencia, el grupo creativo o el #[em freelancer], uno de los elementos que mejor proveen datos para el desarrollo de la campaña, es el producto mismo y resulta muy importante que la empresa no deje escapar ningún detalle en relación con este; en ocasiones, es necesario que quien va a realizar la parte creativa de la campaña firme un acta de confidencialidad, con el fin de que el empresario otorgue toda la información posible sobre procesos de fabricación, canales de distribución, área de influencia, datos de la industria, participación en el mercado, protocolo de prestación del servicio, materias primas, proveedores, etc.
           p Toda esta información representa posibles textos de apoyo, datos relevantes para la decisión de compra o incluso la base del concepto final.
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
@@ -57,7 +57,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
           p Los productos de la empresa, por lo general tienen varias presentaciones, ya sea que se diferencien por su tamaño, sabor, aroma, olor, forma, tipo de empaque, entre otros aspectos. También se puede dar el caso de que la marca tenga una extensión; es decir, que bajo el mismo nombre se hayan creado productos diferentes, por ejemplo: el caso de la marca de una galleta que la utilizan para crear un helado y aprovechar su posicionamiento en el mercado, con el fin de generar ventas inmediatas.
-          p Es indispensable que el empresario entregue toda esta información a los creativos que van a diseñar la campaña, pues de allí pueden surgir datos importantes para la comunicación, textos de apoyo, acciones de marketing, activaciones de marca o cualquier otro recurso útil para persuadir al mercado objetivo. 
+          p Es indispensable que el empresario entregue toda esta información a los creativos que van a diseñar la campaña, pues de allí pueden surgir datos importantes para la comunicación, textos de apoyo, acciones de #[em marketing], activaciones de marca o cualquier otro recurso útil para persuadir al mercado objetivo. 
         .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img04.png", alt="")
 
@@ -114,7 +114,7 @@
             .bloque-texto-g__texto.p-5.mt-4.mb-4
               h5.mb-0 De acuerdo con Vilajoana, Jiménez, González y Vila (2014):<br>
               br
-              p.mb-0 “Un objetivo de comunicación se define como aquel que una organización se propone conseguir a través de sus procesos comunicativos o de sus comunicaciones; es decir, el resultado esperado de una decisión de marketing que un anunciante busca a través de la campaña publicitaria”.
+              p.mb-0 “Un objetivo de comunicación se define como aquel que una organización se propone conseguir a través de sus procesos comunicativos o de sus comunicaciones; es decir, el resultado esperado de una decisión de #[em marketing] que un anunciante busca a través de la campaña publicitaria”.
 
       p Los objetivos de comunicación se pueden direccionar a varios enfoques, de acuerdo con las necesidades de comunicación de la empresa. Por tal motivo, basados en los autores mencionados, se indican los siguientes:
   
@@ -201,7 +201,7 @@
         .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img13.png")
         .col-lg-6
-          p Las estrategias de comunicación que se verán más adelante son la base de la campaña, ya que trazan el camino para el cumplimiento de los objetivos de comunicación; en este punto, los planner de la agencia, el grupo creativo o el freelancer deben poner todo el ingenio para su creación y desarrollo.
+          p Las estrategias de comunicación que se verán más adelante son la base de la campaña, ya que trazan el camino para el cumplimiento de los objetivos de comunicación; en este punto, los #[em planner] de la agencia, el grupo creativo o el #[em freelancer] deben poner todo el ingenio para su creación y desarrollo.
           p La estrategia de comunicación comprende varios enfoques dependiendo del tipo de campaña que se esté realizando y las necesidades de comunicación del producto o servicio. Dentro de estas, también se pueden contemplar la estrategia creativa y el plan de medios; sin embargo, en muchos modelos de campaña ambas son módulos aparte y se encuentran por fuera de la estructura.
 
       Separador
@@ -228,7 +228,7 @@
           img(src="@/assets/curso/temas/tema1/img15.png")
         .col-lg-8
           .cajon.color-secundario.p-4.mb-4
-            .h5 En la actualidad, no se habla de publicidad como se hacía hasta los años 90, por esto, hoy en día es necesario concebirla de forma integral: CIM (Comunicación Integral de Marketing). Una estrategia de CIM debe incluir todos los canales necesarios para llegar de manera efectiva al mercado.
+            .h5 En la actualidad, no se habla de publicidad como se hacía hasta los años 90, por esto, hoy en día es necesario concebirla de forma integral: CIM (Comunicación Integral de #[em Marketing]). Una estrategia de CIM debe incluir todos los canales necesarios para llegar de manera efectiva al mercado.
           p La campaña 360° también conocida como campaña integral o campaña holística, es aquella que se lanza a través de los distintos medios a los que se expone su público objetivo. Tal y como sugiere su nombre, se trata de rodear o envolver al consumidor (360 grados) para que le llegue el mensaje de una manera eficaz, sin saturar y alcanzar así los objetivos planteados. Sus elementos básicos son:
 
       .row.justify-content-center.align-items-center.mb-5
@@ -288,10 +288,10 @@
             .titulo-sexto.color-secundario(data-aos='fade-right')
               h5 Figura 1.
               span Modelo 360
-            img(src='@/assets/curso/temas/tema1/img14.svg')
+            img(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360°" utilizado en publicidad, representado como un círculo central con el texto "360°" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
             figcaption Fuente: SENA (2020)
       p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
-        
+      p En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión. 
       .row.justify-content-center.align-items-center.mb-2
         .col-lg-9.fondoverde.p-2
           .row.justify-content-center.align-items-center.mb-2
@@ -316,17 +316,17 @@
               .row.p-1
                 .col-lg-12
                   h5.px-4 Origen:
-                  p.px-4 ¿De dónde viene?, ¿qué lo hace único en la historia?.
+                  p.px-4 ¿De dónde viene?, ¿qué lo hace único en la historia?
   
               .row.p-1
                 .col-lg-12
                   h5.px-4 Campo de competencia:
-                  p.px-4 ¿Quién es?, ¿qué hace? (hoy y mañana), ¿qué es lo que mejor hace?, ¿cuál es el mercado?.
+                  p.px-4 ¿Quién es?, ¿qué hace? (hoy y mañana), ¿qué es lo que mejor hace?, ¿cuál es el mercado?
               
               .row.p-1
                 .col-lg-12
                   h5.px-4 Punto de diferencia:
-                  p.px-4 ¿Cuáles son las ventajas competitivas claras?, ¿cuál es la única manera de hacer las cosas?.
+                  p.px-4 ¿Cuáles son las ventajas competitivas claras?, ¿cuál es la única manera de hacer las cosas?
 
               .row.p-1
                 .col-lg-12
@@ -336,17 +336,17 @@
               .row.p-1
                 .col-lg-12
                   h5.px-4 Personalidad:
-                  p.px-4 ¿Qué tal es como persona?.
+                  p.px-4 ¿Qué tal es como persona?
 
               .row.p-1
                 .col-lg-12
                   h5.px-4 Misión o lucha:
-                  p.px-4 ¿Por qué luchar?, ¿cuál es el compromiso hacia los consumidores, mercado o mundo?.
+                  p.px-4 ¿Por qué luchar?, ¿cuál es el compromiso hacia los consumidores, mercado o mundo?
 
               .row.p-1
                 .col-lg-12
                   h5.px-4 Valores
-                  p.px-4 ¿Cuál es el valor clave que dirige la misión?.
+                  p.px-4 ¿Cuál es el valor clave que dirige la misión?
 
       
       .row.justify-content-center.align-items-center.mb-5
@@ -354,7 +354,7 @@
           ul.ul
             li 
               i.fas.fa-plus.px-2.morado 
-              | ¿Cuál es el objetivo de marketing?
+              | ¿Cuál es el objetivo de #[em marketing]?
             li 
               i.fas.fa-plus.px-2.morado 
               | ¿A qué target (público) se va a dirigir el mensaje?
@@ -396,7 +396,7 @@
             .titulo-sexto.color-secundario(data-aos='fade-right')
               h5 Figura 2.
               span Modelo 4D de JWT
-            img(src='@/assets/curso/temas/tema1/img16.svg',alt="La imagen expone el “Modelo 4D de JWT,” que ilustra un enfoque centrado en el consumidor. En el centro del diagrama está el “CONSUMIDOR,” rodeado por capas concéntricas que representan “Experiencia,” “Conversación,” y “Conocimiento.” Cada capa simboliza un nivel de interacción y profundidad en la relación con el consumidor, enfatizando la importancia de conocer al cliente, mantener conversaciones significativas, y crear experiencias valiosas. Este modelo, citado de SENA (2020), subraya la necesidad de estrategias integradas en marketing y comunicación para conectar efectivamente con el público objetivo. ")
+            img(src='@/assets/curso/temas/tema1/img16.svg',alt="La imagen expone el “Modelo 4D de JWT,” que ilustra un enfoque centrado en el consumidor. En el centro del diagrama está el “CONSUMIDOR,” rodeado por capas concéntricas que representan “Experiencia,” “Conversación,” y “Conocimiento.” Cada capa simboliza un nivel de interacción y profundidad en la relación con el consumidor, enfatizando la importancia de conocer al cliente, mantener conversaciones significativas, y crear experiencias valiosas. Este modelo, citado de SENA (2020), subraya la necesidad de estrategias integradas en <i>marketing</i> y comunicación para conectar efectivamente con el público objetivo. ")
             figcaption Fuente: SENA (2020)
             p.py-4 A continuación, veremos el desarrollo de cada una de las dimensiones:
       
@@ -410,7 +410,7 @@
               .titulo-sexto.color-secundario(data-aos='fade-right')
                 h5 Figura 3.
                 span Conocimiento
-              img(src="@/assets/curso/temas/tema1/figura3.svg", alt="La imagen describe la primera dimensión del “Modelo 4D de JWT,” denominada “Conocimiento.” Esta dimensión se enfoca en los esfuerzos de marketing Above The Line (ATL) para generar un entendimiento profundo del producto o servicio entre los consumidores. A través de múltiples canales como televisión, prensa, revistas, exteriores, carteles, transporte público, cine, radio, internet y relaciones públicas, la empresa proporciona una gran cantidad de información al mercado objetivo.")
+              img(src="@/assets/curso/temas/tema1/figura3.svg", alt="La imagen describe la primera dimensión del “Modelo 4D de JWT,” denominada “Conocimiento.” Esta dimensión se enfoca en los esfuerzos de <i>marketing</i> Above The Line (ATL) para generar un entendimiento profundo del producto o servicio entre los consumidores. A través de múltiples canales como televisión, prensa, revistas, exteriores, carteles, transporte público, cine, radio, internet y relaciones públicas, la empresa proporciona una gran cantidad de información al mercado objetivo.")
               figcaption Fuente: SENA (2020)
         
         .tarjeta.color-acento-botones--borde.p-4(titulo="Dimensión 2 - conversación")
@@ -457,7 +457,7 @@
             .col-lg-2.col-4.col-sm-2
               img.width(src='@/assets/curso/temas/tema1/ico24.svg')
             .col-lg-9
-              h5.blancotexto Basado en lo anterior, a continuación, se relaciona un ejemplo del mix de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360°, debido al uso de todos los medios posibles para generar una interacción con los clientes.
+              h5.blancotexto Basado en lo anterior, a continuación, se relaciona un ejemplo del #[em mix] de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360°, debido al uso de todos los medios posibles para generar una interacción con los clientes.
       P.text-center Es importante aclarar que este modelo está concebido para desarrollarse a largo plazo y de acuerdo con el ciclo de vida del consumidor:
 
       .row.justify-content-center.align-items-center.mb-5
@@ -465,14 +465,14 @@
           .titulo-sexto.color-secundario(data-aos='fade-right')
             h5 Figura 7. 
             span Ejemplo mix de medios sobre modelo 4D
-          img(src="@/assets/curso/temas/tema1/figura7.svg", alt="La imagen detalla la cuarta dimensión del “Modelo 4D de JWT,” denominada “Personal.” En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla marketing. La fuente citada es SENA (2020). ")
+          img(src="@/assets/curso/temas/tema1/figura7.svg", alt="La imagen detalla la cuarta dimensión del “Modelo 4D de JWT,” denominada “Personal.” En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla <i>marketing</i>. La fuente citada es SENA (2020). ")
           figcaption Fuente: SENA (2020)   
       p Una vez conocida la estructura de la campaña publicitaria y estudiados tres modelos de campaña realizados por agencias multinacionales, es viable que el aprendiz pueda tomar la decisión de cuál modelo es el más adecuado o qué elementos de cada uno de ellos adoptaría para el desarrollo de las estrategias de comunicación para una empresa.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8
           .cajon.color-secundario.p-4.mb-4
-            p Lo importante es que las estrategias que se planteen, tanto desde el punto de vista técnico en la selección de medios y actividades de marketing, como en la parte creativa, sean apropiadas para el producto e impacten de forma eficiente al consumidor, para facilitarle el proceso de comprar y satisfacer sus necesidades, gustos, deseos y demandas como él lo espera.
+            p Lo importante es que las estrategias que se planteen, tanto desde el punto de vista técnico en la selección de medios y actividades de #[em marketing], como en la parte creativa, sean apropiadas para el producto e impacten de forma eficiente al consumidor, para facilitarle el proceso de comprar y satisfacer sus necesidades, gustos, deseos y demandas como él lo espera.
           
 
 
