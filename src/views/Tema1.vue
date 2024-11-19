@@ -291,7 +291,7 @@
             img(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360°" utilizado en publicidad, representado como un círculo central con el texto "360°" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
             figcaption Fuente: SENA (2020)
       p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
-      p En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión. 
+      
       .row.justify-content-center.align-items-center.mb-2
         .col-lg-9.fondoverde.p-2
           .row.justify-content-center.align-items-center.mb-2
@@ -465,7 +465,7 @@
           .titulo-sexto.color-secundario(data-aos='fade-right')
             h5 Figura 7. 
             span Ejemplo mix de medios sobre modelo 4D
-          img(src="@/assets/curso/temas/tema1/figura7.svg", alt="La imagen detalla la cuarta dimensión del “Modelo 4D de JWT,” denominada “Personal.” En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla <i>marketing</i>. La fuente citada es SENA (2020). ")
+          img.mb-3(src="@/assets/curso/temas/tema1/figura7.svg", alt="La imagen detalla la cuarta dimensión del “Modelo 4D de JWT,” denominada “Personal.” En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla <i>marketing</i>. La fuente citada es SENA (2020). ")
           figcaption Fuente: SENA (2020)   
       p Una vez conocida la estructura de la campaña publicitaria y estudiados tres modelos de campaña realizados por agencias multinacionales, es viable que el aprendiz pueda tomar la decisión de cuál modelo es el más adecuado o qué elementos de cada uno de ellos adoptaría para el desarrollo de las estrategias de comunicación para una empresa.
 
