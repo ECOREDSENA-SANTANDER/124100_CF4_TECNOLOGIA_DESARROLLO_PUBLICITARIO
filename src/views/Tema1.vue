@@ -291,14 +291,6 @@
             img(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360°" utilizado en publicidad, representado como un círculo central con el texto "360°" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
             figcaption Fuente: SENA (2020)
       p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
-      
-      .row.justify-content-center.align-items-center.mb-2
-        .col-lg-9.fondoverde.p-2
-          .row.justify-content-center.align-items-center.mb-2
-            .col-lg-2.col-4.py-1.col-sm-2
-              img.width(src='@/assets/curso/temas/tema1/ico24.svg')
-            .col-lg-9
-              h5.blancotexto En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
   
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
         .col-lg-10
