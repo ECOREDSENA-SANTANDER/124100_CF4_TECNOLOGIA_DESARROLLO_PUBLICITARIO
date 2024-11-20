@@ -409,7 +409,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-xl-5
               h4 Dimensión 1 - conocimiento 
-              p Se realizan esfuerzos ATL (Above The Line) y se genera entendimiento del producto o servicio; aquí hay un alto nivel de información por parte de la empresa hacia el mercado objetivo, con el fin de que este reciba todo el conocimiento posible acerca de la marca para que tenga más herramientas para tomar la decisión de compra.
+              p Se realizan esfuerzos ATL (#[em Above The Line]) y se genera entendimiento del producto o servicio; aquí hay un alto nivel de información por parte de la empresa hacia el mercado objetivo, con el fin de que este reciba todo el conocimiento posible acerca de la marca para que tenga más herramientas para tomar la decisión de compra.
             .col-xl-5.mb-4.col-10
               .titulo-sexto.color-secundario(data-aos='fade-right')
                 h5 Figura 3.
@@ -472,7 +472,7 @@
         .col-lg-6.col-10
           .titulo-sexto.color-secundario(data-aos='fade-right')
             h5 Figura 7. 
-            span Ejemplo mix de medios sobre modelo 4D
+            span Ejemplo #[em mix] de medios sobre modelo 4D
           img.mb-3(src="@/assets/curso/temas/tema1/figura7.svg", alt="La imagen detalla la cuarta dimensión del “Modelo 4D de JWT,” denominada “Personal.” En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla <i>marketing</i>. La fuente citada es SENA (2020). ")
           figcaption Fuente: SENA (2020)   
       p Una vez conocida la estructura de la campaña publicitaria y estudiados tres modelos de campaña realizados por agencias multinacionales, es viable que el aprendiz pueda tomar la decisión de cuál modelo es el más adecuado o qué elementos de cada uno de ellos adoptaría para el desarrollo de las estrategias de comunicación para una empresa.
