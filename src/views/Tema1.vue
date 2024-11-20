@@ -299,7 +299,22 @@
               img.width(src='@/assets/curso/temas/tema1/ico24.svg')
             .col-lg-9
               h5.blancotexto HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
-
+  
+      .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+                .col-lg-12
+                  .caja1.p-4.mb-5.fondoverde
+                    .row.justify-content-around.align-items-center
+                      .col-3.col-sm-2.col-lg-2.d-none.d-lg-block
+                        img.img-a.img-t(src="@/assets/curso/temas/tema1/ico24.svg")
+                      .col
+                        .row.justify-content-between.align-items-center
+                          .col.mb-3.mb-sm-0
+                            h4.mb-3.text-white.my-3 #[b Colores secundarios y terciarios CMYK en el círculo cromático.]
+                          .col-sm-auto
+                            a.boton.color-acento-botones(href="https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF" target="_blank")
+                              span Enlace #[em web]
+                              i.fas.fa-file-download
+        
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-4
