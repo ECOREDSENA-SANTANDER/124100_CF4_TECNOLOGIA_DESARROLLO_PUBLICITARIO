@@ -298,7 +298,7 @@
             .col-lg-2.col-4.py-1.col-sm-2
               img.width(src='@/assets/curso/temas/tema1/ico24.svg')
             .col-lg-9
-              h5.blancotexto En una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
+              h5.blancotexto HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA una campaña de este tipo, el mensaje puede llegar al público objetivo a través de mensajes de texto o insertos en prensa escrita, pasando por telemercadeo y comerciales de televisión.
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-7
