@@ -61,8 +61,8 @@
         <text id="TELEVISIÓN" transform="translate(106.644 7)" fill="#fff" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">TELEVISIÓN</tspan></text>
         <text id="RELACIONES_PÚBLICAS" data-name="RELACIONES
 PÚBLICAS" transform="translate(22.691 71.35)" fill="#fff" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">RE</tspan><tspan y="0" letter-spacing="0.01em">L</tspan><tspan y="0">ACIONES</tspan><tspan x="0" y="10">PÚBLICAS</tspan></text>
-        <text id="TRANSPORTE_PÚBLICAS" data-name="TRANSPORTE
-PÚBLICAS" transform="translate(213.934 313.804)" fill="#fff" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">TRANSPO</tspan><tspan y="0" letter-spacing="-0.04em">R</tspan><tspan y="0">TE</tspan><tspan x="0" y="10">PÚBLICAS</tspan></text>
+        <text id="TRANSPORTE_PÚBLICO" data-name="TRANSPORTE
+PÚBLICO" transform="translate(213.934 313.804)" fill="#fff" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">TRANSPO</tspan><tspan y="0" letter-spacing="-0.04em">R</tspan><tspan y="0">TE</tspan><tspan x="0" y="10">PÚBLICO</tspan></text>
         <text id="INTERNET" transform="translate(0 161.298)" fill="#fff" font-size="10" font-family="Roboto-Regular, Roboto" letter-spacing="-0.02em"><tspan x="0" y="0">INTERN</tspan><tspan y="0" letter-spacing="0.01em">E</tspan><tspan y="0">T</tspan></text>
         <text id="RADIO" transform="translate(47 256.241)" fill="#fff" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">RADIO</tspan></text>
         <text id="CINE" transform="translate(119.249 312.804)" fill="#fff" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">CINE</tspan></text>

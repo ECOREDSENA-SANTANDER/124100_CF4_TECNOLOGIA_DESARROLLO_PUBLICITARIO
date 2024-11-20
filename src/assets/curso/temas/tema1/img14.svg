@@ -182,6 +182,6 @@
         </g>
       </g>
     </g>
-    <text id="marketing_directo" data-name="marketing directo" transform="translate(895.629 11209.643) rotate(-47)" fill="#fff" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">marketing directo</tspan></text>
+    <text id="marketing_directo" data-name="marketing directo" transform="translate(895.629 11209.643) rotate(-47)" fill="#fff" font-size="17" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0">marketing</tspan><tspan y="0" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-style="normal"> directo</tspan></text>
   </g>
 </svg>

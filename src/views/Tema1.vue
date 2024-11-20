@@ -288,7 +288,7 @@
             .titulo-sexto.color-secundario(data-aos='fade-right')
               h5 Figura 1.
               span Modelo 360
-            img(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360°" utilizado en publicidad, representado como un círculo central con el texto "360°" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
+            img.mb-3(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360°" utilizado en publicidad, representado como un círculo central con el texto "360°" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
             figcaption Fuente: SENA (2020)
       p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
   
@@ -414,7 +414,7 @@
               .titulo-sexto.color-secundario(data-aos='fade-right')
                 h5 Figura 3.
                 span Conocimiento
-              img(src="@/assets/curso/temas/tema1/figura3.svg", alt="La imagen describe la primera dimensión del “Modelo 4D de JWT,” denominada “Conocimiento.” Esta dimensión se enfoca en los esfuerzos de <i>marketing</i> Above The Line (ATL) para generar un entendimiento profundo del producto o servicio entre los consumidores. A través de múltiples canales como televisión, prensa, revistas, exteriores, carteles, transporte público, cine, radio, internet y relaciones públicas, la empresa proporciona una gran cantidad de información al mercado objetivo.")
+              img.mb-2(src="@/assets/curso/temas/tema1/figura3.svg", alt="La imagen describe la primera dimensión del “Modelo 4D de JWT,” denominada “Conocimiento.” Esta dimensión se enfoca en los esfuerzos de <i>marketing</i> Above The Line (ATL) para generar un entendimiento profundo del producto o servicio entre los consumidores. A través de múltiples canales como televisión, prensa, revistas, exteriores, carteles, transporte público, cine, radio, internet y relaciones públicas, la empresa proporciona una gran cantidad de información al mercado objetivo.")
               figcaption Fuente: SENA (2020)
         
         .tarjeta.color-acento-botones--borde.p-4(titulo="Dimensión 2 - conversación")
@@ -427,7 +427,7 @@
               .titulo-sexto.color-secundario(data-aos='fade-right')
                 h5 Figura 4. 
                 span Conversación
-              img(src="@/assets/curso/temas/tema1/figura4.svg", alt="La imagen ilustra la segunda dimensión del “Modelo 4D de JWT,” denominada “Conversación.” En esta etapa, el consumidor ya está informado sobre el producto gracias a los medios masivos convencionales y comienza un proceso de interacción con la marca. El objetivo es que las características y ventajas competitivas del producto se hagan evidentes para el mercado objetivo. Los medios utilizados en esta fase son más directos e incluyen testimonios de expertos, programas de fidelización, correo directo, concursos, bonos, clubes, ofertas de TV y DR radio. Estos medios permiten al mercado tener una conversación real con la marca. La fuente citada es SENA (2020).")
+              img.mb-2(src="@/assets/curso/temas/tema1/figura4.svg", alt="La imagen ilustra la segunda dimensión del “Modelo 4D de JWT,” denominada “Conversación.” En esta etapa, el consumidor ya está informado sobre el producto gracias a los medios masivos convencionales y comienza un proceso de interacción con la marca. El objetivo es que las características y ventajas competitivas del producto se hagan evidentes para el mercado objetivo. Los medios utilizados en esta fase son más directos e incluyen testimonios de expertos, programas de fidelización, correo directo, concursos, bonos, clubes, ofertas de TV y DR radio. Estos medios permiten al mercado tener una conversación real con la marca. La fuente citada es SENA (2020).")
               figcaption Fuente: SENA (2020)
         
         .tarjeta.color-acento-botones--borde.p-4(titulo="Dimensión 3 - experiencia")
@@ -455,13 +455,17 @@
               img(src="@/assets/curso/temas/tema1/figura6.svg", alt="La imagen muestra un “Ejemplo mix de medios sobre modelo 4D,” que integra diferentes canales de comunicación utilizados en las cuatro dimensiones del Modelo 4D de JWT. En el centro están los mensajes móviles y online, rodeados por una capa que incluye sponsor, tarjetas para fechas especiales, concursos y tomas en puntos de venta. Más allá de esta capa, se encuentran los medios de programas de fidelización, revistas, DR radio, televisión, radio, cine y transporte público. Este diagrama ilustra cómo combinar diversos medios para alcanzar a los consumidores de manera integral y efectiva. La fuente citada es SENA (2020).")
               figcaption Fuente: SENA (2020)   
             
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-10.fondoverde.p-2
-          .row.justify-content-center.align-items-center
-            .col-lg-2.col-4.col-sm-2
-              img.width(src='@/assets/curso/temas/tema1/ico24.svg')
-            .col-lg-9
-              h5.blancotexto Basado en lo anterior, a continuación, se relaciona un ejemplo del #[em mix] de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360°, debido al uso de todos los medios posibles para generar una interacción con los clientes.
+      .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
+        .col-lg-10
+          .caja1.p-4.mb-5
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-2.d-none.d-lg-block
+                img.img-a.img-t(src="@/assets/curso/temas/tema1/ico24.svg")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h4.mb-3.text-white.my-3 #[b Basado en lo anterior, a continuación, se relaciona un ejemplo del #[em mix] de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360°, debido al uso de todos los medios posibles para generar una interacción con los clientes.]
+      
       P.text-center Es importante aclarar que este modelo está concebido para desarrollarse a largo plazo y de acuerdo con el ciclo de vida del consumidor:
 
       .row.justify-content-center.align-items-center.mb-5
