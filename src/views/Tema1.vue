@@ -97,7 +97,7 @@
         .col-lg-4.col-8
           img(src="@/assets/curso/temas/tema1/img07.png", alt="")
         .col-lg-6 
-          p Como ya se indicó, el desarrollo de una estrategia de comunicación debe ir de la mano con la identidad corporativa de la empresa. La identidad está compuesta de múltiples elementos, entre ellos la personalidad de marca, la cual contiene aspectos del mercado que generan empatía entre el producto y los consumidores; con base en esta información se puede definir el look de la comunicación, el tipo de lenguaje a utilizar, el tipo de imágenes o ilustraciones que deberán contener las piezas gráficas o audiovisuales que incluirá la campaña, debido a que la personalidad de marca está ligada a los aspectos cualitativos del mercado; es decir, a sus características psicográficas.
+          p Como ya se indicó, el desarrollo de una estrategia de comunicación debe ir de la mano con la identidad corporativa de la empresa. La identidad está compuesta de múltiples elementos, entre ellos la personalidad de marca, la cual contiene aspectos del mercado que generan empatía entre el producto y los consumidores; con base en esta información se puede definir el #[em look] de la comunicación, el tipo de lenguaje a utilizar, el tipo de imágenes o ilustraciones que deberán contener las piezas gráficas o audiovisuales que incluirá la campaña, debido a que la personalidad de marca está ligada a los aspectos cualitativos del mercado; es decir, a sus características psicográficas.
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
           .col-sm-12.col-lg-8
@@ -127,13 +127,13 @@
         
         .row(titulo="Objetivos enfocados en la actitud")
           .col-md-8.mb-4.mb-md-0
-            p Su intención es la de cambiar la forma cómo se percibe un producto; son los que persiguen generar cambios de los sentimientos, emociones y preferencias de las personas en referencia a una compañía o producto. Se pueden direccionar hacia reforzar o desarrollar motivaciones, eliminar o reducir frenos, construir, reforzar o modificar la imagen de un producto, servicio o empresa, y generar preferencia.
+            p Su intención es la de cambiar la forma como se percibe un producto; son los que persiguen generar cambios de los sentimientos, emociones y preferencias de las personas en referencia a una compañía o producto. Se pueden direccionar hacia reforzar o desarrollar motivaciones, eliminar o reducir frenos, construir, reforzar o modificar la imagen de un producto, servicio o empresa, y generar preferencia.
           .col-md-4.mb-4.mb-md-0
             img(src="@/assets/curso/temas/tema1/img10.png")
         
         .row(titulo="Objetivos enfocados en el comportamiento")
           .col-md-8.mb-4.mb-md-0
-            p Su intención es producir en el consumidor una reacción conductual; son los que buscan que el público objetivo realice algún tipo de acción en relación con la empresa, producto o servicio; también conocido como “call to action”. Estos objetivos se pueden enfocar en: inducir a la prueba o compra del producto, servicio o marca, modificar hábitos o costumbres de los consumidores, crear un comportamiento de compra o consumo, fomentar la asistencia al punto de venta, incentivar que se hable bien del producto.
+            p Su intención es producir en el consumidor una reacción conductual; son los que buscan que el público objetivo realice algún tipo de acción en relación con la empresa, producto o servicio; también conocido como “#[em call to action]”. Estos objetivos se pueden enfocar en: inducir a la prueba o compra del producto, servicio o marca, modificar hábitos o costumbres de los consumidores, crear un comportamiento de compra o consumo, fomentar la asistencia al punto de venta, incentivar que se hable bien del producto.
             p Un objetivo de comunicación debe responder a las siguientes características básicas:
             ul 
               li 
@@ -232,7 +232,7 @@
           p La campaña 360° también conocida como campaña integral o campaña holística, es aquella que se lanza a través de los distintos medios a los que se expone su público objetivo. Tal y como sugiere su nombre, se trata de rodear o envolver al consumidor (360 grados) para que le llegue el mensaje de una manera eficaz, sin saturar y alcanzar así los objetivos planteados. Sus elementos básicos son:
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12.col-sm-6
+        .col-lg-12.col-sm-6.col-10
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-left")
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
@@ -262,7 +262,7 @@
                 .col-lg-8.fondo-morado.p-1
                   h4.text-center.text-white Análisis de mercado meta
                 .py-2
-                  p.text-center Conocer al target de la forma más detallada posible para el desarrollo de la estrategia.
+                  p.text-center Conocer al #[em target] de la forma más detallada posible para el desarrollo de la estrategia.
             
             .tarjeta.color-secundario-cus.p-4
               .row.justify-content-center.mb-3
@@ -287,8 +287,8 @@
           .col-lg-6.col-10
             .titulo-sexto.color-secundario(data-aos='fade-right')
               h5 Figura 1.
-              span Modelo 360
-            img.mb-3(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360°" utilizado en publicidad, representado como un círculo central con el texto "360°" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
+              span Modelo 360 ° 
+            img.mb-3(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360 °" utilizado en publicidad, representado como un círculo central con el texto "360°" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
             figcaption Fuente: SENA (2020)
       p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
   
@@ -309,7 +309,7 @@
             .d-flex.align-items-center.mt-4
               img.w-card-icon(src="@/assets/curso/temas/tema1/ico14.svg")
               h3.bg13.py-2.w-card-text #[b Modelo] SpringBoard
-      p Es un modelo eficaz desarrollado por la agencia Y&R en los años 90. La base principal es el uso de los insights de los consumidores (los momentos de uso e interacción con el producto):
+      p Es un modelo eficaz desarrollado por la agencia Y&R en los años 90. La base principal es el uso de los #[em insights] de los consumidores (los momentos de uso e interacción con el producto):
       
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-8
@@ -361,10 +361,10 @@
               | ¿Cuál es el objetivo de #[em marketing]?
             li 
               i.fas.fa-plus.px-2.morado 
-              | ¿A qué target (público) se va a dirigir el mensaje?
+              | ¿A qué #[em target]  (público) se va a dirigir el mensaje?
             li 
               i.fas.fa-plus.px-2.morado 
-              | ¿Qué acción se desea que el target realice?
+              | ¿Qué acción se desea que el #[em target]  realice?
             li 
               i.fas.fa-plus.px-2.morado 
               | ¿Cuáles son las barreras para la acción deseada?
@@ -376,7 +376,7 @@
               | ¿Cuáles son las mejores formas para comunicar el mensaje?
             li 
               i.fas.fa-plus.px-2.morado 
-              | ¿Cuál key insight provee la base para una campaña exitosa?
+              | ¿Cuál #[em key insight] provee la base para una campaña exitosa?
             li 
               i.fas.fa-plus.px-2.morado 
               | Estrategias de promoción.
@@ -452,7 +452,7 @@
               .titulo-sexto.color-secundario(data-aos='fade-right')
                 h5 Figura 6. 
                 span Personal
-              img(src="@/assets/curso/temas/tema1/figura6.svg", alt="La imagen muestra un “Ejemplo mix de medios sobre modelo 4D,” que integra diferentes canales de comunicación utilizados en las cuatro dimensiones del Modelo 4D de JWT. En el centro están los mensajes móviles y online, rodeados por una capa que incluye sponsor, tarjetas para fechas especiales, concursos y tomas en puntos de venta. Más allá de esta capa, se encuentran los medios de programas de fidelización, revistas, DR radio, televisión, radio, cine y transporte público. Este diagrama ilustra cómo combinar diversos medios para alcanzar a los consumidores de manera integral y efectiva. La fuente citada es SENA (2020).")
+              img(src="@/assets/curso/temas/tema1/figura6.svg", alt="La imagen detalla la cuarta dimensión del Modelo 4D de JWT denominada Personal. En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla marketing. La fuente citada es SENA (2020).")
               figcaption Fuente: SENA (2020)   
             
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -464,7 +464,7 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h4.mb-3.text-white.my-3 #[b Basado en lo anterior, a continuación, se relaciona un ejemplo del #[em mix] de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360°, debido al uso de todos los medios posibles para generar una interacción con los clientes.]
+                    h4.mb-3.text-white.my-3 #[b Basado en lo anterior, a continuación, se relaciona un ejemplo del #[em mix] de medios realizado sobre un modelo de campaña 4D; en el que se puede ver la similitud con el modelo 360 °, debido al uso de todos los medios posibles para generar una interacción con los clientes.]
       
       P.text-center Es importante aclarar que este modelo está concebido para desarrollarse a largo plazo y de acuerdo con el ciclo de vida del consumidor:
 

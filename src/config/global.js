@@ -134,12 +134,12 @@ export default {
     {
       termino: 'Briefing',
       significado:
-        '<i>marketing</i>. Conjunto de datos sobre la empresa, sus objetivos y estrategia; que sirven de base al consultor o diseñador para plantear la comunicación corporativa. Término inglés que engloba las instrucciones que el cliente da a su proveedor para que de acuerdo con ellas desarrolle la campaña de <i>Marketing</i> Directo desde la idea global hasta el envío del <i>mailing.</i>',
+        '<i>marketing</i>. Conjunto de datos sobre la empresa, sus objetivos y estrategia; que sirven de base al consultor o diseñador para plantear la comunicación corporativa. Término inglés que engloba las instrucciones que el cliente da a su proveedor para que de acuerdo con ellas desarrolle la campaña de <i>marketing</i> directo desde la idea global hasta el envío del <i>mailing.</i>',
     },
     {
       termino: 'Canal',
       significado:
-        'en teoría de la comunicación, camino técnico o fisiológico que recorre un mensaje desde el emisor hasta el receptor',
+        'en teoría de la comunicación, camino técnico o fisiológico que recorre un mensaje desde el emisor hasta el receptor.',
     },
     {
       termino: 'Comunicación',
@@ -152,7 +152,7 @@ export default {
         'actividad creadora o capacidad imaginativa de hallar soluciones nuevas o ideas originales. La creatividad es la aptitud del ser humano para la combinatoria, es decir, la combinación de formas y mensajes nuevos a partir de combinaciones originales de signos.',
     },
     {
-      termino: '<i>marketing</i>',
+      termino: '<i>Marketing</i>',
       significado:
         'técnicas que persiguen la selección de mercados objetivos, la identificación y cuantificación de las necesidades de esos mercados, el desarrollo de productos y servicios que satisfagan estas necesidades.',
     },
