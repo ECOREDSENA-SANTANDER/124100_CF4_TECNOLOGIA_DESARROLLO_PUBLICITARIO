@@ -109,8 +109,7 @@ export default {
     {
       referencia:
         'Medina, P. y Ferrer, I. (2014). Dirección Empresarial para Publicitarios. Editorial Dykinson. ',
-      link:
-        'https://books.google.com.co/books?id=HwjdBAAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false',
+      link: '',
     },
     {
       referencia:
