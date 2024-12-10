@@ -452,7 +452,7 @@
               .titulo-sexto.color-secundario(data-aos='fade-right')
                 h5 Figura 6. 
                 span Personal
-              img(src="@/assets/curso/temas/tema1/figura6.svg", alt="La imagen detalla la cuarta dimensión del Modelo 4D de JWT denominada Personal. En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla marketing. La fuente citada es SENA (2020).")
+              img(src="@/assets/curso/temas/tema1/figura6.svg", alt="La imagen detalla la cuarta dimensión del 'Modelo 4D de JWT,' denominada 'Personal. En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla <i>marketing</i>. La fuente citada es SENA (2020).")
               figcaption Fuente: SENA (2020)   
             
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
@@ -473,7 +473,7 @@
           .titulo-sexto.color-secundario(data-aos='fade-right')
             h5 Figura 7. 
             span Ejemplo #[em mix] de medios sobre modelo 4D
-          img.mb-3(src="@/assets/curso/temas/tema1/figura7.svg", alt="La imagen detalla la cuarta dimensión del “Modelo 4D de JWT,” denominada “Personal.” En esta etapa, la marca se dirige al consumidor de manera personalizada, llamándolo por su nombre y estableciendo una relación directa y empática. La interacción es tan estrecha que la marca y el cliente comparten rasgos de personalidad similares. Los medios utilizados en esta fase incluyen mensajes móviles y online, así como estrategias BTL (Below The Line) y de guerrilla <i>marketing</i>. La fuente citada es SENA (2020). ")
+          img.mb-3(src="@/assets/curso/temas/tema1/figura7.svg", alt='La imagen ilustra un "Ejemplo mix de medios sobre modelo 4D", con varios anillos concéntricos que representan diferentes medios de comunicación. En el centro, se encuentran los mensajes móviles y online. Alrededor de este núcleo, se ubican diversos canales como sponsor, tomas en puntos de venta, tarjetas y fechas especiales, y concursos. El siguiente anillo incluye programas de fidelización, transporte público, cine, radio, televisión y revistas. Estos anillos reflejan la estrategia de utilizar múltiples plataformas y puntos de contacto para maximizar el alcance y efectividad de una campaña publicitaria.')
           figcaption Fuente: SENA (2020)   
       p Una vez conocida la estructura de la campaña publicitaria y estudiados tres modelos de campaña realizados por agencias multinacionales, es viable que el aprendiz pueda tomar la decisión de cuál modelo es el más adecuado o qué elementos de cada uno de ellos adoptaría para el desarrollo de las estrategias de comunicación para una empresa.
 
