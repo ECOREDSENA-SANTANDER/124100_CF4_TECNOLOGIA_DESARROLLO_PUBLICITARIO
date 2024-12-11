@@ -229,7 +229,7 @@
         .col-lg-8
           .cajon.color-secundario.p-4.mb-4
             .h5 En la actualidad, no se habla de publicidad como se hacía hasta los años 90, por esto, hoy en día es necesario concebirla de forma integral: CIM (Comunicación Integral de #[em Marketing]). Una estrategia de CIM debe incluir todos los canales necesarios para llegar de manera efectiva al mercado.
-          p La campaña 360° también conocida como campaña integral o campaña holística, es aquella que se lanza a través de los distintos medios a los que se expone su público objetivo. Tal y como sugiere su nombre, se trata de rodear o envolver al consumidor (360 grados) para que le llegue el mensaje de una manera eficaz, sin saturar y alcanzar así los objetivos planteados. Sus elementos básicos son:
+          p La campaña 360 ° también conocida como campaña integral o campaña holística, es aquella que se lanza a través de los distintos medios a los que se expone su público objetivo. Tal y como sugiere su nombre, se trata de rodear o envolver al consumidor (360 grados) para que le llegue el mensaje de una manera eficaz, sin saturar y alcanzar así los objetivos planteados. Sus elementos básicos son:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12.col-sm-6.col-10
@@ -288,9 +288,9 @@
             .titulo-sexto.color-secundario(data-aos='fade-right')
               h5 Figura 1.
               span Modelo 360 ° 
-            img.mb-3(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360 °" utilizado en publicidad, representado como un círculo central con el texto "360°" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
+            img.mb-3(src='@/assets/curso/temas/tema1/img14.svg', alt='La imagen muestra el "Modelo 360 °" utilizado en publicidad, representado como un círculo central con el texto "360 °" y múltiples flechas que se irradian desde él. Cada flecha indica un canal de comunicación diferente, como cine, prensa, exteriores, acuerdos, marketing interactivo, promociones, radio, relaciones públicas, patrocinios, punto de venta, gestión de consumidores (fidelización), marketing directo, televisión y eventos. Estos canales representan los diversos medios que una campaña publicitaria puede emplear para alcanzar a su audiencia desde múltiples ángulos.')
             figcaption Fuente: SENA (2020)
-      p En la campaña 360° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
+      p En la campaña 360 ° se implementa una estrategia de medios que implique la mayor cantidad de canales posibles para llevarle el mensaje al mercado objetivo, de ahí que el análisis del consumidor en cuanto a sus preferencias para la comunicación, sea el elemento más importante para su desarrollo, pues de dicha información depende la efectividad de este modelo.
   
       .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
         .col-lg-10
