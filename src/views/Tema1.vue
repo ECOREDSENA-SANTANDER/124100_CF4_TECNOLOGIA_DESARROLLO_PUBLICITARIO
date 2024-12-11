@@ -221,7 +221,7 @@
           .col-sm-12.col-lg-7
             .d-flex.align-items-center.mt-4
               img.w-card-icon(src="@/assets/curso/temas/tema1/ico8.svg")
-              h3.bg13.py-2.w-card-text Modelo 360°
+              h3.bg13.py-2.w-card-text Modelo 360 °
       
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-8
